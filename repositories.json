@@ -96,8 +96,8 @@
 			"location": "https://raw.githubusercontent.com/arnbme/nyckelharpa/master/repository.json"
 		},
 		{
-			"name": "Marco Felicio (maffpt@gmail.com)",
-			"location": "https://raw.githubusercontent.com/MAFFPT/Hubitat/master/Nuki%20Smart%20Lock%202.0/masterManifest.json"
+			"name": "Marco Felicio (@maffpt)",
+			"location": "https://raw.githubusercontent.com/MAFFPT/Hubitat/master/repository.json"
 		},
 		{
 			"name": "n3!",
@@ -315,7 +315,7 @@
 			"name": "Michael van Dam",
 			"location": "https://raw.githubusercontent.com/michaelvandam/Hubitat/master/repository.json" 
 		}
-	],
+		],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
 	}
